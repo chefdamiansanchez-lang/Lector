@@ -1,0 +1,8 @@
+{
+  "name": "Lector de Libros TTS",
+  "short_name": "Lector Libros",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#4A90E2"
+}
